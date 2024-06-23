@@ -55,65 +55,65 @@ https://www.youtube.com/playlist?list=PLnvUoC1Ghb7zhwsFK8a7_T42c4UnKTJt4
 - lec19
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7x_utbREAczsv9WkF-yZJkz
 
--lec20
+- lec20
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7xKcnWHPS_9bqs7qcTljrsZ
 
--lec21
+- lec21
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7zD5TXpzZwaCzHDisgykJIZ
 
--lec22
+- lec22
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7y0AGYM7cWXAedzzOaSKbdT
 
--lec23
+- lec23
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7xdwmZbswKNUDCCDMa5bhBX
 
--lec24
+- lec24
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7wVN38WCr2375fdHZzMiLDw
 
--lec25
+- lec25
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7wJrUEK8qFcQRezL-J2QGK0
 
--lec26
+- lec26
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7ysm5flYxBEo1Mes_CxWPMt
 
--lec27
+- lec27
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7zKOEiS5vxsXOMQGxPSHh6r
 
--lec28
+- lec28
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7ziIlgNnQ24Gb6HBmLQO4T4
 
--lec29
+- lec29
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7zlukNrB3PYYnoRbedKV2_-
 
--lec30
+- lec30
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7wa2QMwE5FWAbu6ekwA9dni
 
--lec31
+- lec31
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7xqkBDmhKv4gZY4Aj_jMNMp
 
--lec32
+- lec32
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7zKYR6mD5CY3yx8-fap4LcQ
 
--lec33
+- lec33
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7yjWZNe4VO-XCVtLC9oaUHX
 
--lec34
+- lec34
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7ydPRtoDnLcAtUrjasMtiD5
 
--lec35
+- lec35
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7ypJF7I_SdZ1fMYLLIGX4y0
 
--lec36
+- lec36
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7wyvz86qPU6-hch9ahWfKoN
 
--lec37
+- lec37
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7wdCsysobgh-wRbzW_C3tOI
 
--lec38
+- lec38
 https://www.youtube.com/playlist?list=PLnvUoC1Ghb7zd0D4oM6UK1ACKBSW5BsEj
 
--lec39
+- lec39
 https://www.youtube.com/watch?v=xdcW52tEPfE
 
--lec40
+- lec40
 https://www.youtube.com/watch?v=yr9vLemZ0D8
