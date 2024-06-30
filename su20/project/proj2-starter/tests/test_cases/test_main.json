@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Basic Main Simple0 Test",
+        "id": "simple0",
+        "test_file": "../../src/main.s",
+        "args": ["-it", "-ms", "-1", "inputs/simple0/bin/m0.bin", "inputs/simple0/bin/m1.bin", "inputs/simple0/bin/inputs/input0.bin", "outputs/test_basic_main/student0.bin"],
+        "stdout": "2\n",
+        "compare_files": [
+            {
+                "reference": "outputs/test_basic_main/reference0.bin",
+                "student": "outputs/test_basic_main/student0.bin"
+            }
+        ],
+        "exitcode": 0
+    },
+    {
+        "name": "Basic Main Simple1 Test",
+        "id": "simple1",
+        "test_file": "../../src/main.s",
+        "args": ["-it", "-ms", "-1", "inputs/simple1/bin/m0.bin", "inputs/simple1/bin/m1.bin", "inputs/simple1/bin/inputs/input0.bin", "outputs/test_basic_main/student1.bin"],
+        "stdout": "1\n",
+        "compare_files": [
+            {
+                "reference": "outputs/test_basic_main/reference1.bin",
+                "student": "outputs/test_basic_main/student1.bin"
+            }
+        ],
+        "exitcode": 0
+    }
+]

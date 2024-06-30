@@ -1,0 +1,11 @@
+{
+    "name": "Basic Write Matrix Test",
+    "id": "write_matrix",
+    "test_file": "test_write_matrix.s",
+    "args": ["-it", "-ms", "-1"],
+    "compare_files": [{
+        "reference": "outputs/test_write_matrix/reference.bin",
+        "student": "outputs/test_write_matrix/student_write_outputs.bin"
+    }],
+    "exitcode": 0
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Basic Argmax Test",
+    "id": "argmax",
+    "test_file": "test_argmax.s",
+    "args": ["-it", "-ms", "-1"],
+    "stdout": "2\n",
+    "exitcode": 0
+}
